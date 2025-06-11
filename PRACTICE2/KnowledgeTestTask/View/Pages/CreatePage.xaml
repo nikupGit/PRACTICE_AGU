@@ -1,0 +1,112 @@
+﻿<Page x:Class="KnowledgeTestTask.View.Pages.CreatePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:KnowledgeTestTask.View.Pages"
+      xmlns:viewmodel="clr-namespace:KnowledgeTestTask.ViewModel"
+      d:DataContext="{d:DesignInstance Type=viewmodel:CreateViewModel}"
+      mc:Ignorable="d"
+      d:DesignHeight="450"
+      d:DesignWidth="800">
+    
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <Grid Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            
+            <StackPanel Orientation="Horizontal"
+                        HorizontalAlignment="Left"
+                        Grid.Row="0">
+                <Button Content="Добавить вопрос"
+                        Grid.Row="1"
+                        VerticalAlignment="Bottom"
+                        HorizontalAlignment="Right"
+                        Margin="10"
+                        Width="150"
+                        Height="40"
+                        FontSize="16"
+                        Command="{Binding AddQuestionCommand}" />
+            </StackPanel>
+            
+            <StackPanel Orientation="Horizontal"
+                        HorizontalAlignment="Right"
+                        Grid.Row="0">
+                <TextBlock Text="Добавлено вопросов: "
+                           FontSize="16" />
+                <TextBlock Text="{Binding QuestionsCount}"
+                           FontSize="16"
+                           FontWeight="Bold" />
+            </StackPanel>
+            
+            <StackPanel Orientation="Horizontal"
+                        HorizontalAlignment="Center"
+                        Grid.Row="0">
+                <TextBlock Text="Вопрос #"
+                           FontSize="20" />
+                <TextBlock Text="{Binding QuestionNumber}"
+                           FontSize="20"
+                           FontWeight="Bold" />
+            </StackPanel>
+            
+            <Grid Grid.Row="1"
+                  Margin="0 20 0 0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                
+                <GroupBox Header="Текст вопроса"
+                          Grid.Row="0"
+                          Margin="5">
+                    <TextBox Text="{Binding CurrentQuestion.Meaning}"
+                             FontSize="16"
+                             MinHeight="80"
+                             TextWrapping="Wrap"
+                             AcceptsReturn="True" />
+                </GroupBox>
+                
+                <GroupBox Header="Добавить вариант ответа"
+                          Grid.Row="1"
+                          Margin="5">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+                        
+                        <TextBox Text="{Binding NewOption}"
+                                 FontSize="16"
+                                 Margin="0 0 10 0" />
+                        <Button Content="Добавить"
+                                Grid.Column="1"
+                                Width="100"
+                                Command="{Binding AddOptionCommand}" />
+                    </Grid>
+                </GroupBox>
+                
+                <GroupBox Header="Правильный ответ"
+                          Grid.Row="2"
+                          Margin="5">
+                    <ComboBox ItemsSource="{Binding CurrentQuestion.Variables}"
+                              SelectedItem="{Binding CurrentQuestion.RightAnswer}"
+                              FontSize="16" />
+                </GroupBox>
+                
+                <GroupBox Header="Варианты ответов"
+                          Grid.Row="3"
+                          Margin="5">
+                    <ListBox ItemsSource="{Binding CurrentQuestion.Variables}"
+                             FontSize="16"
+                             MinHeight="150" />
+                </GroupBox>
+            </Grid>
+            
+            
+        </Grid>
+    </ScrollViewer>
+</Page>

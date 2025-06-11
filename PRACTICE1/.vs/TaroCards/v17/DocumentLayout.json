@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\tarocards\\tarocards\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|solutionrelative:tarocards\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\tarocards\\tarocards\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|solutionrelative:tarocards\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\tarocards\\tarocards\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|solutionrelative:tarocards\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\tarocards\\tarocards\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|solutionrelative:tarocards\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\tarocards\\tarocards\\view\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|solutionrelative:tarocards\\view\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\tarocards\\tarocards\\model\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|solutionrelative:tarocards\\model\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\tarocards\\tarocards\\core\\enums\\cardenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|solutionrelative:tarocards\\core\\enums\\cardenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\tarocards\\tarocards\\command\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|solutionrelative:tarocards\\command\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\tarocards\\tarocards\\view\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|solutionrelative:tarocards\\view\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\tarocards\\tarocards\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|solutionrelative:tarocards\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nikup\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\tarocards\\tarocards\\tarocards.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19753C85-5BC0-4782-AAA7-8D4A4B5BA8D2}|TaroCards\\TaroCards.csproj|solutionrelative:tarocards\\tarocards.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\View\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TaroCards\\View\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\View\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TaroCards\\View\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:56:28.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\Model\\Card.cs",
+              "RelativeDocumentMoniker": "TaroCards\\Model\\Card.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\Model\\Card.cs",
+              "RelativeToolTip": "TaroCards\\Model\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:47:58.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CardEnum.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\Core\\Enums\\CardEnum.cs",
+              "RelativeDocumentMoniker": "TaroCards\\Core\\Enums\\CardEnum.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\Core\\Enums\\CardEnum.cs",
+              "RelativeToolTip": "TaroCards\\Core\\Enums\\CardEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:45:19.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "TaroCards\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "TaroCards\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:54:14.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\ViewModel\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "TaroCards\\ViewModel\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\ViewModel\\BaseViewModel.cs",
+              "RelativeToolTip": "TaroCards\\ViewModel\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:53:57.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TaroCards\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\App.xaml.cs",
+              "RelativeToolTip": "TaroCards\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:17:47.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "TaroCards\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\AssemblyInfo.cs",
+              "RelativeToolTip": "TaroCards\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:17:44.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\Command\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "TaroCards\\Command\\DelegateCommand.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\Command\\DelegateCommand.cs",
+              "RelativeToolTip": "TaroCards\\Command\\DelegateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:44:12.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\View\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TaroCards\\View\\Windows\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\View\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "TaroCards\\View\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T12:56:30.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\App.xaml",
+              "RelativeDocumentMoniker": "TaroCards\\App.xaml",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\App.xaml",
+              "RelativeToolTip": "TaroCards\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T14:17:51.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\nikup\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:15:59.433Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaroCards",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\TaroCards.csproj",
+              "RelativeDocumentMoniker": "TaroCards\\TaroCards.csproj",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\TaroCards\\TaroCards\\TaroCards.csproj",
+              "RelativeToolTip": "TaroCards\\TaroCards.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T13:44:38.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

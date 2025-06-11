@@ -1,0 +1,10 @@
+﻿<Application x:Class="KnowledgeTestTask.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:KnowledgeTestTask"
+             xmlns:converters="clr-namespace:KnowledgeTestTask.Converters"
+             StartupUri="View/Windows/MainWindow.xaml">
+    <Application.Resources>
+        <converters:BoolToVisibilityConverter x:Key="BoolToVisibilityConverter" />
+    </Application.Resources>
+</Application>

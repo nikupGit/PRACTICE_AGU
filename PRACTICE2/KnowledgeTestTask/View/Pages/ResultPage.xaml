@@ -1,0 +1,63 @@
+﻿<Page x:Class="KnowledgeTestTask.View.Pages.ResultPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:KnowledgeTestTask.View.Pages"
+      xmlns:viewmodel="clr-namespace:KnowledgeTestTask.ViewModel"
+      d:DataContext="{d:DesignInstance Type=viewmodel:ResultViewModel}"
+      mc:Ignorable="d"
+      d:DesignHeight="450"
+      d:DesignWidth="800">
+    
+    <StackPanel VerticalAlignment="Center"
+                HorizontalAlignment="Center">
+        <TextBlock Text="Результаты теста"
+                   FontSize="28"
+                   FontWeight="Bold"
+                   Margin="0 0 0 30"
+                   HorizontalAlignment="Center" />
+        
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            
+            <TextBlock Grid.Row="0"
+                       FontSize="20"
+                       Margin="10">
+                <Run Text="Всего вопросов: " />
+                <Run Text="{Binding TotalQuestions, Mode=OneWay}"
+                     FontWeight="Bold" />
+            </TextBlock>
+            
+            <TextBlock Grid.Row="1"
+                       FontSize="20"
+                       Margin="10">
+                <Run Text="Правильных ответов: " />
+                <Run Text="{Binding CorrectAnswers, Mode=OneWay}"
+                     FontWeight="Bold"
+                     Foreground="Green" />
+            </TextBlock>
+            
+            <TextBlock Grid.Row="2"
+                       FontSize="24"
+                       Margin="10"
+                       FontWeight="Bold">
+                <Run Text="Оценка: " />
+                <Run Text="{Binding Result}"
+                     Foreground="Blue" />
+            </TextBlock>
+            
+        </Grid>
+        
+        <Button Content="Вернуться"
+                Width="200"
+                Height="40"
+                Margin="0 30 0 0"
+                FontSize="16"
+                Command="{Binding ReturnCommand}" />
+    </StackPanel>
+</Page>

@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice3\\hotelbookingapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|solutionrelative:hotelbookingapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice3\\hotelbookingapp\\command\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|solutionrelative:hotelbookingapp\\command\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice3\\hotelbookingapp\\viewmodel\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|solutionrelative:hotelbookingapp\\viewmodel\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice3\\hotelbookingapp\\view\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|solutionrelative:hotelbookingapp\\view\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice3\\hotelbookingapp\\storage\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|solutionrelative:hotelbookingapp\\storage\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice3\\hotelbookingapp\\utilities\\pricecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|solutionrelative:hotelbookingapp\\utilities\\pricecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice3\\hotelbookingapp\\models\\bookingsavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,24 +35,8 @@
       "RelativeMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|solutionrelative:hotelbookingapp\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice3\\hotelbookingapp\\command\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|solutionrelative:hotelbookingapp\\command\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice3\\hotelbookingapp\\utilities\\pricecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|solutionrelative:hotelbookingapp\\utilities\\pricecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice3\\hotelbookingapp\\view\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|solutionrelative:hotelbookingapp\\view\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice3\\hotelbookingapp\\viewmodel\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|solutionrelative:hotelbookingapp\\viewmodel\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice3\\hotelbookingapp\\view\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|solutionrelative:hotelbookingapp\\view\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2178E7E-A480-4C25-8D7D-01CFA7F003FA}|HotelBookingApp\\HotelBookingApp.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice3\\hotelbookingapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,6 +67,157 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "HotelBookingApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\App.xaml.cs",
+              "RelativeToolTip": "HotelBookingApp\\App.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:34:18.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PriceCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\Utilities\\PriceCalculator.cs",
+              "RelativeDocumentMoniker": "HotelBookingApp\\Utilities\\PriceCalculator.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\Utilities\\PriceCalculator.cs",
+              "RelativeToolTip": "HotelBookingApp\\Utilities\\PriceCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:17:50.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\View\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HotelBookingApp\\View\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\View\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HotelBookingApp\\View\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:08:13.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\Storage\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "HotelBookingApp\\Storage\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\Storage\\BookingRepository.cs",
+              "RelativeToolTip": "HotelBookingApp\\Storage\\BookingRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwv0cAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:12:13.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingSaveModel.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\Models\\BookingSaveModel.cs",
+              "RelativeDocumentMoniker": "HotelBookingApp\\Models\\BookingSaveModel.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\Models\\BookingSaveModel.cs",
+              "RelativeToolTip": "HotelBookingApp\\Models\\BookingSaveModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:09:48.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "HotelBookingApp\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\Models\\Booking.cs",
+              "RelativeToolTip": "HotelBookingApp\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:09:00.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\Command\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "HotelBookingApp\\Command\\DelegateCommand.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\Command\\DelegateCommand.cs",
+              "RelativeToolTip": "HotelBookingApp\\Command\\DelegateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:30:47.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\ViewModel\\BookingViewModel.cs",
+              "RelativeDocumentMoniker": "HotelBookingApp\\ViewModel\\BookingViewModel.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\ViewModel\\BookingViewModel.cs",
+              "RelativeToolTip": "HotelBookingApp\\ViewModel\\BookingViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:07:28.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\View\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HotelBookingApp\\View\\Windows\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\View\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "HotelBookingApp\\View\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-10T02:08:14.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "HotelBookingApp\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "HotelBookingApp\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:33:34.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\App.xaml",
+              "RelativeDocumentMoniker": "HotelBookingApp\\App.xaml",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\App.xaml",
+              "RelativeToolTip": "HotelBookingApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-10T02:19:34.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.g.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\obj\\Debug\\net8.0-windows\\View\\Windows\\MainWindow.g.cs",
+              "RelativeDocumentMoniker": "HotelBookingApp\\obj\\Debug\\net8.0-windows\\View\\Windows\\MainWindow.g.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\obj\\Debug\\net8.0-windows\\View\\Windows\\MainWindow.g.cs",
+              "RelativeToolTip": "HotelBookingApp\\obj\\Debug\\net8.0-windows\\View\\Windows\\MainWindow.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:02:35.892Z"
             },
             {
               "$type": "Bookmark",
@@ -75,137 +230,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PriceCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\Utilities\\PriceCalculator.cs",
-              "RelativeDocumentMoniker": "HotelBookingApp\\Utilities\\PriceCalculator.cs",
-              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\Utilities\\PriceCalculator.cs",
-              "RelativeToolTip": "HotelBookingApp\\Utilities\\PriceCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T02:17:50.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\View\\Windows\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HotelBookingApp\\View\\Windows\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\View\\Windows\\MainWindow.xaml.cs",
-              "RelativeToolTip": "HotelBookingApp\\View\\Windows\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T02:08:13.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\Storage\\BookingRepository.cs",
-              "RelativeDocumentMoniker": "HotelBookingApp\\Storage\\BookingRepository.cs",
-              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\Storage\\BookingRepository.cs",
-              "RelativeToolTip": "HotelBookingApp\\Storage\\BookingRepository.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T02:12:13.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookingSaveModel.cs",
-              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\Models\\BookingSaveModel.cs",
-              "RelativeDocumentMoniker": "HotelBookingApp\\Models\\BookingSaveModel.cs",
-              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\Models\\BookingSaveModel.cs",
-              "RelativeToolTip": "HotelBookingApp\\Models\\BookingSaveModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T02:09:48.857Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\Models\\Booking.cs",
-              "RelativeDocumentMoniker": "HotelBookingApp\\Models\\Booking.cs",
-              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\Models\\Booking.cs",
-              "RelativeToolTip": "HotelBookingApp\\Models\\Booking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T02:09:00.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DelegateCommand.cs",
-              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\Command\\DelegateCommand.cs",
-              "RelativeDocumentMoniker": "HotelBookingApp\\Command\\DelegateCommand.cs",
-              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\Command\\DelegateCommand.cs",
-              "RelativeToolTip": "HotelBookingApp\\Command\\DelegateCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T17:30:47.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookingViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\ViewModel\\BookingViewModel.cs",
-              "RelativeDocumentMoniker": "HotelBookingApp\\ViewModel\\BookingViewModel.cs",
-              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\ViewModel\\BookingViewModel.cs",
-              "RelativeToolTip": "HotelBookingApp\\ViewModel\\BookingViewModel.cs",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T03:07:28.88Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\View\\Windows\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "HotelBookingApp\\View\\Windows\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\View\\Windows\\MainWindow.xaml",
-              "RelativeToolTip": "HotelBookingApp\\View\\Windows\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-10T02:08:14.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "HotelBookingApp\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\AssemblyInfo.cs",
-              "RelativeToolTip": "HotelBookingApp\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T02:33:34.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\App.xaml",
-              "RelativeDocumentMoniker": "HotelBookingApp\\App.xaml",
-              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\App.xaml",
-              "RelativeToolTip": "HotelBookingApp\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-10T02:19:34.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainWindow.g.cs",
-              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\obj\\Debug\\net8.0-windows\\View\\Windows\\MainWindow.g.cs",
-              "RelativeDocumentMoniker": "HotelBookingApp\\obj\\Debug\\net8.0-windows\\View\\Windows\\MainWindow.g.cs",
-              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE3\\HotelBookingApp\\obj\\Debug\\net8.0-windows\\View\\Windows\\MainWindow.g.cs",
-              "RelativeToolTip": "HotelBookingApp\\obj\\Debug\\net8.0-windows\\View\\Windows\\MainWindow.g.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T03:02:35.892Z"
             }
           ]
         }

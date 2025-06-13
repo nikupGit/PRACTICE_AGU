@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HandyControl/3.5.0": {
+        "runtime": {
+          "lib/net8.0/HandyControl.dll": {
+            "assemblyVersion": "3.5.0.0",
+            "fileVersion": "3.5.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HandyControl/3.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-m3sdHBsgOficRLwGPVkG4LmXloy10oiugGDVcEq+OVK71xZmrkh9xBYLMJ4bGJj/bCKh993nhvWJb0fXU3/XTw==",
+      "path": "handycontrol/3.5.0",
+      "hashPath": "handycontrol.3.5.0.nupkg.sha512"
+    }
+  }
+}

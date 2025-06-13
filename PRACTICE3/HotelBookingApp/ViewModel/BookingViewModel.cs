@@ -3,14 +3,15 @@ using HotelBookingApp.Models;
 using HotelBookingApp.Storage;
 using HotelBookingApp.Utilities;
 using Microsoft.Win32;
+using System;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.IO;
+using System.Text;
 using System.Windows;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-
 
 namespace HotelBookingApp.ViewModel
 {
@@ -25,7 +26,7 @@ namespace HotelBookingApp.ViewModel
         private Booking? _selectedBooking;
         private string? _sourceImagePath;
 
-        public ObservableCollection<Booking> Bookings { get; } = new();
+        public ObservableCollection<Booking> Bookings { get; } = new ObservableCollection<Booking>();
         public ICommand BookCommand { get; }
         public ICommand UploadImageCommand { get; }
         public ICommand EditCommand { get; }
@@ -83,10 +84,10 @@ namespace HotelBookingApp.ViewModel
         public BookingViewModel()
         {
             _repository = new BookingRepository();
-            BookCommand = new DelegateCommand(Book, CanBook);
+            BookCommand = new DelegateCommand(Book);
             UploadImageCommand = new DelegateCommand(UploadImage);
-            EditCommand = new DelegateCommand(Edit, CanEditOrDelete);
-            DeleteCommand = new DelegateCommand(Delete, CanEditOrDelete);
+            EditCommand = new DelegateCommand(Edit);
+            DeleteCommand = new DelegateCommand(Delete);
             LoadBookings();
         }
 
@@ -101,7 +102,12 @@ namespace HotelBookingApp.ViewModel
 
         private void Book(object? parameter)
         {
-            if (!CanBook(null)) return;
+            string validationError = ValidateBookingInput();
+            if (!string.IsNullOrEmpty(validationError))
+            {
+                MessageBox.Show($"Невозможно добавить бронирование:\n{validationError}", "Ошибка ввода", MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
 
             var booking = new Booking
             {
@@ -119,12 +125,12 @@ namespace HotelBookingApp.ViewModel
             Bookings.Add(booking);
             BookingRepository.SaveBookings(Bookings);
             ClearInputs();
-            MessageBox.Show("Бронирование добавлено!", "Успех");
+            MessageBox.Show("Бронирование успешно добавлено!", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
         }
 
         private void UploadImage(object? parameter)
         {
-            OpenFileDialog openFileDialog = new()
+            OpenFileDialog openFileDialog = new OpenFileDialog
             {
                 Filter = "Изображения (*.png;*.jpg;*.jpeg)|*.png;*.jpg;*.jpeg"
             };
@@ -147,14 +153,25 @@ namespace HotelBookingApp.ViewModel
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show($"Не удалось загрузить изображение: {ex.Message}", "Ошибка");
+                    MessageBox.Show($"Не удалось загрузить изображение: {ex.Message}.", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                 }
             }
         }
 
         private void Edit(object? parameter)
         {
-            if (SelectedBooking == null || !CanBook(null)) return;
+            if (SelectedBooking == null)
+            {
+                MessageBox.Show("Выберите бронирование для редактирования.", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
+
+            string validationError = ValidateBookingInput();
+            if (!string.IsNullOrEmpty(validationError))
+            {
+                MessageBox.Show($"Невозможно обновить бронирование:\n{validationError}.", "Ошибка ввода", MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
 
             SelectedBooking.FullName = FullName!;
             SelectedBooking.RoomType = RoomType!;
@@ -167,35 +184,48 @@ namespace HotelBookingApp.ViewModel
 
             BookingRepository.SaveBookings(Bookings);
             ClearInputs();
-            MessageBox.Show("Бронирование обновлено!", "Успех");
+            MessageBox.Show("Бронирование успешно обновлено!", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
         }
 
         private void Delete(object? parameter)
         {
-            if (SelectedBooking == null) return;
+            if (SelectedBooking == null)
+            {
+                MessageBox.Show("Выберите бронирование для удаления.", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
 
-            if (MessageBox.Show("Удалить это бронирование?", "Подтверждение удаления", MessageBoxButton.YesNo) == MessageBoxResult.Yes)
+            if (MessageBox.Show("Вы уверены, что хотите удалить это бронирование?", "Подтверждение удаления",
+                MessageBoxButton.YesNo, MessageBoxImage.Question) == MessageBoxResult.Yes)
             {
                 Bookings.Remove(SelectedBooking);
                 BookingRepository.SaveBookings(Bookings);
                 ClearInputs();
-                MessageBox.Show("Бронирование удалено!", "Успех");
+                MessageBox.Show("Бронирование успешно удалено!", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
             }
         }
 
-        private bool CanBook(object? parameter)
+        private string ValidateBookingInput()
         {
-            return !string.IsNullOrWhiteSpace(FullName) &&
-                   !string.IsNullOrEmpty(RoomType) &&
-                   CheckInDate.HasValue &&
-                   CheckOutDate.HasValue &&
-                   CheckInDate >= DateTime.Today &&
-                   CheckOutDate > CheckInDate;
-        }
+            StringBuilder errors = new StringBuilder();
 
-        private bool CanEditOrDelete(object? parameter)
-        {
-            return SelectedBooking != null;
+            if (string.IsNullOrWhiteSpace(FullName))
+                errors.AppendLine("- Укажите ФИО клиента.");
+
+            if (string.IsNullOrWhiteSpace(RoomType))
+                errors.AppendLine("- Выберите тип номера.");
+
+            if (!CheckInDate.HasValue)
+                errors.AppendLine("- Укажите дату заезда.");
+            else if (CheckInDate < DateTime.Today)
+                errors.AppendLine("- Дата заезда не может быть раньше текущей даты.");
+
+            if (!CheckOutDate.HasValue)
+                errors.AppendLine("- Укажите дату выезда");
+            else if (CheckInDate.HasValue && CheckOutDate <= CheckInDate)
+                errors.AppendLine("- Дата выезда должна быть позже даты заезда.");
+
+            return errors.ToString();
         }
 
         private void ClearInputs()

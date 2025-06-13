@@ -40,3 +40,4 @@ C:\Users\nikup\OneDrive\Desktop\pg\VS\ПРАКТИКА\PRACTICE3\HotelBookingApp
 C:\Users\nikup\OneDrive\Desktop\pg\VS\ПРАКТИКА\PRACTICE3\HotelBookingApp\obj\Debug\net8.0-windows\HotelBookingApp.pdb
 C:\Users\nikup\OneDrive\Desktop\pg\VS\ПРАКТИКА\PRACTICE3\HotelBookingApp\obj\Debug\net8.0-windows\HotelBookingApp.genruntimeconfig.cache
 C:\Users\nikup\OneDrive\Desktop\pg\VS\ПРАКТИКА\PRACTICE3\HotelBookingApp\obj\Debug\net8.0-windows\ref\HotelBookingApp.dll
+C:\Users\nikup\OneDrive\Desktop\pg\VS\ПРАКТИКА\PRACTICE3\HotelBookingApp\obj\Debug\net8.0-windows\HotelBookingApp.sourcelink.json

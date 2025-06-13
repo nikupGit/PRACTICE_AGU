@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF181E7E-57B3-4088-BD74-5C81420442ED}|Tests\\Tests.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice5\\commonrefactortask-master\\tests\\discountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF181E7E-57B3-4088-BD74-5C81420442ED}|Tests\\Tests.csproj|solutionrelative:tests\\discountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF181E7E-57B3-4088-BD74-5C81420442ED}|Tests\\Tests.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice5\\commonrefactortask-master\\tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF181E7E-57B3-4088-BD74-5C81420442ED}|Tests\\Tests.csproj|solutionrelative:tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF181E7E-57B3-4088-BD74-5C81420442ED}|Tests\\Tests.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice5\\commonrefactortask-master\\tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF181E7E-57B3-4088-BD74-5C81420442ED}|Tests\\Tests.csproj|solutionrelative:tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice5\\commonrefactortask-master\\commonrefactortask\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|solutionrelative:commonrefactortask\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice5\\commonrefactortask-master\\commonrefactortask\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|solutionrelative:commonrefactortask\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice5\\commonrefactortask-master\\commonrefactortask\\view\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|solutionrelative:commonrefactortask\\view\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice5\\commonrefactortask-master\\commonrefactortask\\service\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|solutionrelative:commonrefactortask\\service\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice5\\commonrefactortask-master\\commonrefactortask\\model\\good.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|solutionrelative:commonrefactortask\\model\\good.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice5\\commonrefactortask-master\\commonrefactortask\\command\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|solutionrelative:commonrefactortask\\command\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice5\\commonrefactortask-master\\commonrefactortask\\commonrefactortask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|solutionrelative:commonrefactortask\\commonrefactortask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice5\\commonrefactortask-master\\commonrefactortask\\view\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|solutionrelative:commonrefactortask\\view\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice5\\commonrefactortask-master\\commonrefactortask\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|solutionrelative:commonrefactortask\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice5\\commonrefactortask-master\\commonrefactortask\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|solutionrelative:commonrefactortask\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nikup\\.nuget\\packages\\mstest\\3.6.4\\PACKAGE.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice5\\commonrefactortask-master\\commonrefactortask\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE38FD17-3C82-4119-A634-D03E1F0E8F70}|CommonRefactorTask\\CommonRefactorTask.csproj|solutionrelative:commonrefactortask\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nikup\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\View\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CommonRefactorTask\\View\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\View\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CommonRefactorTask\\View\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:32:28.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\ViewModel\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "CommonRefactorTask\\ViewModel\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\ViewModel\\BaseViewModel.cs",
+              "RelativeToolTip": "CommonRefactorTask\\ViewModel\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:39:32.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "CommonRefactorTask\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "CommonRefactorTask\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:42:59.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\Tests\\Tests.csproj",
+              "RelativeDocumentMoniker": "Tests\\Tests.csproj",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\Tests\\Tests.csproj",
+              "RelativeToolTip": "Tests\\Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-13T14:44:46.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiscountServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\Tests\\DiscountServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\DiscountServiceTests.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\Tests\\DiscountServiceTests.cs",
+              "RelativeToolTip": "Tests\\DiscountServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:43:49.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "Tests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:43:31.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\Service\\DiscountService.cs",
+              "RelativeDocumentMoniker": "CommonRefactorTask\\Service\\DiscountService.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\Service\\DiscountService.cs",
+              "RelativeToolTip": "CommonRefactorTask\\Service\\DiscountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:38:53.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Good.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\Model\\Good.cs",
+              "RelativeDocumentMoniker": "CommonRefactorTask\\Model\\Good.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\Model\\Good.cs",
+              "RelativeToolTip": "CommonRefactorTask\\Model\\Good.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:33:49.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\Command\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "CommonRefactorTask\\Command\\DelegateCommand.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\Command\\DelegateCommand.cs",
+              "RelativeToolTip": "CommonRefactorTask\\Command\\DelegateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:40:38.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommonRefactorTask.csproj",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\CommonRefactorTask.csproj",
+              "RelativeDocumentMoniker": "CommonRefactorTask\\CommonRefactorTask.csproj",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\CommonRefactorTask.csproj",
+              "RelativeToolTip": "CommonRefactorTask\\CommonRefactorTask.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-13T14:49:44.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\View\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CommonRefactorTask\\View\\Windows\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\View\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "CommonRefactorTask\\View\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T18:32:29.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\App.xaml",
+              "RelativeDocumentMoniker": "CommonRefactorTask\\App.xaml",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\App.xaml",
+              "RelativeToolTip": "CommonRefactorTask\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T18:32:56.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CommonRefactorTask\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\AssemblyInfo.cs",
+              "RelativeToolTip": "CommonRefactorTask\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:36:30.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PACKAGE.md",
+              "DocumentMoniker": "C:\\Users\\nikup\\.nuget\\packages\\mstest\\3.6.4\\PACKAGE.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\.nuget\\packages\\mstest\\3.6.4\\PACKAGE.md",
+              "ToolTip": "C:\\Users\\nikup\\.nuget\\packages\\mstest\\3.6.4\\PACKAGE.md [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\.nuget\\packages\\mstest\\3.6.4\\PACKAGE.md [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-13T14:41:12.687Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CommonRefactorTask\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\PRACTICE5\\CommonRefactorTask-master\\CommonRefactorTask\\App.xaml.cs",
+              "RelativeToolTip": "CommonRefactorTask\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:44:35.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\nikup\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:54:28.709Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
